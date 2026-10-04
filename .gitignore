@@ -1,0 +1,16 @@
+# API keys and environment files
+.env
+
+# Raw market data
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
